@@ -22,7 +22,3 @@ They earn points for every correct guess. The rules are more complex, described 
 - **Backend**: Node.js, Express.js
 - **Deployment**: Azure
 - **Version Control**: Git, GitHub
-
-## Installation
-
-To run the project locally, follow these steps:
